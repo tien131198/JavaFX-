@@ -16,6 +16,7 @@ public class DemoGit {
         int b = 5;
         if (a >0) {
             System.out.println(a + b);
+            System.out.println("feature-test");
         }
     }
 }
