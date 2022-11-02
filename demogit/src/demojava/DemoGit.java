@@ -14,7 +14,10 @@ public class DemoGit {
         System.out.println("hello cac ban");
         int a = 10;
         int b = 5;
-        System.out.println(a + b);
-        System.out.println("git main");
+
+        if (a >0) {
+            System.out.println(a + b);
+            System.out.println("feature-test");
+        }
     }
 }
